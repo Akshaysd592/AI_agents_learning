@@ -4,7 +4,7 @@ import json
 load_dotenv() # here it is not used but keeping it for future use if we want to load any environment variable from .env file
 
 client = OpenAI(
-    api_key="AIzaSyDxagBAy8vPjbzAta01hfwKHV2k_ZEQlNw",
+    api_key="",
     base_url="https://generativelanguage.googleapis.com/v1beta/"
 )
 

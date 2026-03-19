@@ -2,7 +2,7 @@
 # Giving direct instruction to the model
 from openai import OpenAI
 client = OpenAI(
-    api_key="AIzaSyDxagBAy8vPjbzAta01hfwKHV2k_ZEQlNw",
+    api_key="",
     base_url="https://generativelanguage.googleapis.com/v1beta/"
 )
 
